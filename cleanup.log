@@ -1,0 +1,41 @@
+2025-03-29 14:11:40,944 - INFO - Starting cleanup process...
+2025-03-29 14:11:40,945 - INFO - Deleted old file: youtube-1743228366482.mp3
+2025-03-29 14:11:40,946 - INFO - Deleted old file: youtube-1743227519677.mp3
+2025-03-29 14:11:40,947 - INFO - Deleted old file: youtube-1743227519659.mp3
+2025-03-29 14:11:40,948 - INFO - Deleted old file: youtube-1743228366609.mp3
+2025-03-29 14:11:40,950 - INFO - Deleted old file: youtube-1743228001899.mp3
+2025-03-29 14:11:40,952 - INFO - Deleted old file: 1743224473228-讓子彈飛.mp3
+2025-03-29 14:11:40,953 - INFO - Deleted old file: youtube-1743228136023.mp3
+2025-03-29 14:11:40,953 - INFO - Deleted old file: youtube-1743228135877.mp3
+2025-03-29 14:11:40,954 - INFO - Cleanup process completed
+2025-03-29 14:12:56,587 - INFO - Starting cleanup process...
+2025-03-29 14:12:56,588 - INFO - Cleanup process completed
+2025-03-29 14:14:36,223 - INFO - Starting cleanup process...
+2025-03-29 14:14:36,223 - INFO - Deleted old file: youtube-1743228838454.mp3
+2025-03-29 14:14:36,224 - INFO - Deleted old file: youtube-1743228811718.mp3
+2025-03-29 14:14:36,224 - INFO - Deleted old file: youtube-1743228838327.mp3
+2025-03-29 14:14:36,224 - INFO - Cleanup process completed
+2025-03-29 14:21:10,016 - INFO - Starting cleanup process...
+2025-03-29 14:21:10,016 - INFO - Found 2 files to check
+2025-03-29 14:21:10,017 - INFO - Deleted old file: youtube-1743229146775.mp3 (age: 36317.0 minutes)
+2025-03-29 14:21:10,017 - INFO - Deleted old file: youtube-1743229146799.mp3 (age: 36317.0 minutes)
+2025-03-29 14:21:10,017 - INFO - Cleanup process completed
+2025-03-29 14:25:42,486 - INFO - Starting cleanup process...
+2025-03-29 14:25:42,486 - INFO - No files found in the uploads directory
+2025-03-29 14:25:42,486 - INFO - Cleanup process completed
+2025-03-29 14:26:33,121 - INFO - Starting cleanup process...
+2025-03-29 14:26:33,122 - INFO - Found 2 files to check
+2025-03-29 14:26:33,122 - INFO - File: youtube-1743229572930.mp3
+2025-03-29 14:26:33,122 - INFO -   Creation time: 2025-03-29 14:26:21.036129
+2025-03-29 14:26:33,123 - INFO -   Current time: 2025-03-29 14:26:33.121749
+2025-03-29 14:26:33,123 - INFO -   Age: 0.2 minutes
+2025-03-29 14:26:33,123 - INFO - Keeping recent file: youtube-1743229572930.mp3
+2025-03-29 14:26:33,124 - INFO - File: youtube-1743229572948.mp3
+2025-03-29 14:26:33,124 - INFO -   Creation time: 2025-03-29 14:26:21.036129
+2025-03-29 14:26:33,124 - INFO -   Current time: 2025-03-29 14:26:33.121749
+2025-03-29 14:26:33,125 - INFO -   Age: 0.2 minutes
+2025-03-29 14:26:33,125 - INFO - Keeping recent file: youtube-1743229572948.mp3
+2025-03-29 14:26:33,125 - INFO - Cleanup process completed
+2025-03-29 14:30:29,668 - INFO - Starting cleanup process...
+2025-03-29 14:30:29,668 - INFO - Found 2 files to check
+2025-03-29 14:30:29,668 - INFO - Cleanup process completed
