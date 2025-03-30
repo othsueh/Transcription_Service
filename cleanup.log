@@ -39,3 +39,31 @@
 2025-03-29 14:30:29,668 - INFO - Starting cleanup process...
 2025-03-29 14:30:29,668 - INFO - Found 2 files to check
 2025-03-29 14:30:29,668 - INFO - Cleanup process completed
+2025-03-30 23:08:40,880 - INFO - Starting cleanup process...
+2025-03-30 23:08:40,885 - INFO - Found 27 files to check
+2025-03-30 23:08:40,886 - INFO - Deleted old file: youtube-1743337705126.mp3
+2025-03-30 23:08:40,887 - INFO - Deleted old file: youtube-1743229948269.mp3
+2025-03-30 23:08:40,888 - INFO - Deleted old file: youtube-1743341948951.mp3
+2025-03-30 23:08:40,889 - INFO - Deleted old file: youtube-1743345184755.mp3
+2025-03-30 23:08:40,889 - INFO - Deleted old file: youtube-1743339589784.mp3
+2025-03-30 23:08:40,889 - INFO - Deleted old file: youtube-1743338402161.mp3
+2025-03-30 23:08:40,889 - INFO - Deleted old file: 1743338381209-讓子彈飛.mp3
+2025-03-30 23:08:40,889 - INFO - Deleted old file: youtube-1743343252333.mp3
+2025-03-30 23:08:40,890 - INFO - Deleted old file: youtube-1743337288256.mp3
+2025-03-30 23:08:40,891 - INFO - Deleted old file: youtube-1743229948247.mp3
+2025-03-30 23:08:40,892 - INFO - Deleted old file: youtube-1743338402073.mp3
+2025-03-30 23:08:40,892 - INFO - Deleted old file: youtube-1743341611408.mp3
+2025-03-30 23:08:40,893 - INFO - Deleted old file: youtube-1743337577590.mp3
+2025-03-30 23:08:40,894 - INFO - Deleted old file: 1743337930761-讓子彈飛.mp4
+2025-03-30 23:08:40,895 - INFO - Deleted old file: 1743344779966-讓子彈飛.mp3
+2025-03-30 23:08:40,895 - INFO - Deleted old file: youtube-1743340066035.mp3
+2025-03-30 23:08:40,895 - INFO - Deleted old file: 1743338221914-讓子彈飛.mp4
+2025-03-30 23:08:40,895 - INFO - Deleted old file: youtube-1743340493475.mp3
+2025-03-30 23:08:40,895 - INFO - Deleted old file: 1743344766336-讓子彈飛.mp3
+2025-03-30 23:08:40,896 - INFO - Deleted old file: youtube-1743341949064.mp3
+2025-03-30 23:08:40,896 - INFO - Deleted old file: youtube-1743343766862.mp3
+2025-03-30 23:08:40,896 - INFO - Deleted old file: youtube-1743340493349.mp3
+2025-03-30 23:08:40,896 - INFO - Deleted old file: youtube-1743345184671.mp3
+2025-03-30 23:08:40,896 - INFO - Deleted old file: youtube-1743337288216.mp3
+2025-03-30 23:08:40,896 - INFO - Deleted old file: youtube-1743339589768.mp3
+2025-03-30 23:08:40,897 - INFO - Cleanup process completed
